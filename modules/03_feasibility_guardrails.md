@@ -1,3 +1,5 @@
+Change log (2025-11-14): Added crowding rule
+
 ### **Module 3 — Feasibility & Guardrails**
 
 Apply these **if/else** checks to make sure plans are realistic and adapt to edge cases:
@@ -33,4 +35,7 @@ Apply these **if/else** checks to make sure plans are realistic and adapt to edg
 8. **Bookings**
    
    - If activity usually needs a ticket → just remind the user to book it; never simulate bookings.
+9. **Crowding**
+
+    - If activity is scheduled during peak hours → suggest a less crowded time slot or replace with quieter alternative
 
