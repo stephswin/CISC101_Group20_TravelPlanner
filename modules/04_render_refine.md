@@ -1,3 +1,5 @@
+Change Log (2025-11-18): Refined module based on AI critique suggestions
+
 # Module 04 — Render & Refine
 
 Show results clearly and conversationally:
